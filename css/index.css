@@ -32,6 +32,9 @@ nav a{
     display: flex;
     flex-direction: row;
 }
+.image-class{
+    filter: grayscale(100%);
+}
 .title-div{
     text-align: center;
 }.title-div p{
@@ -104,6 +107,8 @@ nav a{
     .title-div{
         text-align: left;
     }
+
+    
     .a-div{
         margin-left: 44.2%;
         text-align: center;
